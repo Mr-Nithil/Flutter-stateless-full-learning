@@ -1,6 +1,6 @@
 # sample_app
 
-This a code which I used to get an understanding of Stateless and Statefull widgets. 
+This is a sample code snippet which I used to get an understanding of Stateless and Statefull widgets. 
 TextField widget and the setState() method has been used here.
 
 YT Tutorial by Mitch KoKo
